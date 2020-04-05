@@ -1,0 +1,3 @@
+0:nd ns ng
+1:ns ng 大于 x
+2:ns ng 小于 x
